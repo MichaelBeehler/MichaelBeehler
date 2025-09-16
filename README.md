@@ -3,7 +3,8 @@
 ✨ I'm Michael Beehler, a student currently studying Computer Science at the University of Tampa ✨
 
 🔭 I'm currently working on developing an autonomous vehicle that delivers food to students at the University of Tampa!
-🌱 I'm Currently learning Java, and game development using the Unreal Engine
+
+🌱 I'm Currently learning Java
 <!--
 **MichaelBeehler/MichaelBeehler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
