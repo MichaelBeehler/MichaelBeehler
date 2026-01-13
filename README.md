@@ -4,7 +4,7 @@
 
 🔭 I'm currently working on developing an autonomous vehicle that delivers food to students at the University of Tampa!
 
-🌱 I'm Currently learning C++
+🌱 I'm currently learning game development
 <!--
 **MichaelBeehler/MichaelBeehler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
