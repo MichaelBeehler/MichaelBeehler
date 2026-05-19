@@ -2,9 +2,9 @@
 
 ✨ I'm Michael Beehler, a student currently studying Computer Science at the University of Tampa ✨
 
-🔭 I'm currently working on developing an autonomous vehicle that delivers food to students at the University of Tampa!
+🔭 I'm currently working on developing a game that explores Electromagnetism!
 
-🌱 I'm currently learning game development
+🌱 On the side, I'm learning C++, Modern Physics, and WebDev!
 <!--
 **MichaelBeehler/MichaelBeehler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
