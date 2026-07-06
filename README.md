@@ -2,7 +2,7 @@
 
 ✨ I'm Michael Beehler, a student currently studying Computer Science at the University of Tampa ✨
 
-🔭 I'm currently working on developing a game that explores Electromagnetism!
+🔭 I'm currently working on developing a game In Unity that explores Electromagnetism!
 
 🌱 On the side, I'm learning C++, Modern Physics, and WebDev!
 <!--
